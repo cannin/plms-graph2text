@@ -13,4 +13,4 @@ torch = "1.4.0"
 parsimonious = "0.8.1"
 
 [requires]
-python_version = "3.8"
+python_version = "3.7"
