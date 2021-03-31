@@ -7,10 +7,11 @@ name = "pypi"
 ipython = "*"
 
 [packages]
-transformers = "3.3.1"
-pytorch-lightning = "0.9.0"
-torch = "1.4.0"
-parsimonious = "0.8.1"
+transformers = "==3.3.1"
+pytorch-lightning = "==0.9.0"
+torch = "==1.4.0"
+parsimonious = "==0.8.1"
+Unidecode = "==1.1.1"
 
 [requires]
 python_version = "3.7"
